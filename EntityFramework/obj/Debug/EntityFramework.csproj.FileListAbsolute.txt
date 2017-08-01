@@ -1,0 +1,8 @@
+E:\SampleTest\SampleApp-EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll.config
+E:\SampleTest\SampleApp-EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+E:\SampleTest\SampleApp-EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+E:\SampleTest\SampleApp-EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\SampleTest\SampleApp-EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+E:\SampleTest\SampleApp-EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\SampleTest\SampleApp-EntityFramework\EntityFramework\obj\Debug\EntityFramework.dll
+E:\SampleTest\SampleApp-EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb

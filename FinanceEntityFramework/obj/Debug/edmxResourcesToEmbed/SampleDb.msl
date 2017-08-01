@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SampaldbModelStoreContainer" CdmEntityContainer="SampaldbEntities">
+    <EntitySetMapping Name="tblCustomers">
+      <EntityTypeMapping TypeName="SampaldbModel.tblCustomer">
+        <MappingFragment StoreEntitySet="tblCustomer">
+          <ScalarProperty Name="CustomerName" ColumnName="CustomerName" />
+          <ScalarProperty Name="CustomerAddress" ColumnName="CustomerAddress" />
+          <ScalarProperty Name="Nic" ColumnName="Nic" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="MobileNo" ColumnName="MobileNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblStudents">
+      <EntityTypeMapping TypeName="SampaldbModel.tblStudent">
+        <MappingFragment StoreEntitySet="tblStudent">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="NIC" ColumnName="NIC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,10 @@
+E:\SampleTest\SampleApp-EntityFramework\FinanceEntityFramework\bin\Debug\FinanceEntityFramework.dll.config
+E:\SampleTest\SampleApp-EntityFramework\FinanceEntityFramework\bin\Debug\FinanceEntityFramework.dll
+E:\SampleTest\SampleApp-EntityFramework\FinanceEntityFramework\bin\Debug\FinanceEntityFramework.pdb
+E:\SampleTest\SampleApp-EntityFramework\FinanceEntityFramework\bin\Debug\EntityFramework.dll
+E:\SampleTest\SampleApp-EntityFramework\FinanceEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\SampleTest\SampleApp-EntityFramework\FinanceEntityFramework\bin\Debug\EntityFramework.xml
+E:\SampleTest\SampleApp-EntityFramework\FinanceEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\SampleTest\SampleApp-EntityFramework\FinanceEntityFramework\obj\Debug\FinanceEntityFramework.csprojResolveAssemblyReference.cache
+E:\SampleTest\SampleApp-EntityFramework\FinanceEntityFramework\obj\Debug\FinanceEntityFramework.dll
+E:\SampleTest\SampleApp-EntityFramework\FinanceEntityFramework\obj\Debug\FinanceEntityFramework.pdb

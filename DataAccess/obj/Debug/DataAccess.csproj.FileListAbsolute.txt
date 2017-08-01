@@ -1,0 +1,14 @@
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\bin\Debug\DataAccess.dll.config
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\bin\Debug\DataAccess.dll
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\bin\Debug\DataAccess.pdb
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\bin\Debug\BusinessObjects.dll
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\bin\Debug\EntityFramework.dll
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\bin\Debug\FinanceEntityFramework.dll
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\bin\Debug\BusinessObjects.pdb
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\bin\Debug\FinanceEntityFramework.pdb
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\bin\Debug\EntityFramework.xml
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\obj\Debug\DataAccess.dll
+E:\SampleTest\SampleApp-EntityFramework\DataAccess\obj\Debug\DataAccess.pdb

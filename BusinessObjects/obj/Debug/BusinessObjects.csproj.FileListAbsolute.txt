@@ -1,0 +1,4 @@
+E:\SampleTest\SampleApp-EntityFramework\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\SampleTest\SampleApp-EntityFramework\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\SampleTest\SampleApp-EntityFramework\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\SampleTest\SampleApp-EntityFramework\BusinessObjects\obj\Debug\BusinessObjects.pdb
